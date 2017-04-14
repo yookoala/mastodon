@@ -1,3 +1,4 @@
+import ar from './ar';
 import en from './en';
 import de from './de';
 import es from './es';
@@ -17,6 +18,7 @@ import zh_hk from './zh-hk';
 import bg from './bg';
 
 const locales = {
+  ar,
   en,
   de,
   es,
