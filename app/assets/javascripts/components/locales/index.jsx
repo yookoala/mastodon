@@ -16,6 +16,7 @@ import ru from './ru';
 import ja from './ja';
 import zh_hk from './zh-hk';
 import bg from './bg';
+import ar from './ar';
 
 const locales = {
   ar,
@@ -36,6 +37,7 @@ const locales = {
   ja,
   'zh-HK': zh_hk,
   bg,
+  ar,
 };
 
 export default function getMessagesForLocale (locale) {
