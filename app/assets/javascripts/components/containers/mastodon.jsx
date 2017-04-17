@@ -90,7 +90,6 @@ addLocaleData([
   ...zh,
   ...zh_hk,
   ...bg,
-  ...ar,
 ]);
 
 const Mastodon = React.createClass({

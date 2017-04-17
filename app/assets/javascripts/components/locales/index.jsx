@@ -16,7 +16,6 @@ import ru from './ru';
 import ja from './ja';
 import zh_hk from './zh-hk';
 import bg from './bg';
-import ar from './ar';
 
 const locales = {
   ar,
