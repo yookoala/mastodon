@@ -65,6 +65,8 @@ const ar = {
   "emoji_button.objects": "أشياء",
   "emoji_button.symbols": "رموز",
   "emoji_button.flags": "أعلام",
+  "follow_request.authorize": "ترخيص",
+  "follow_request.reject": "رفض",
   "navigation_bar.blocks": "الحسابات المحجوبة",
   "navigation_bar.community_timeline": "الخيط العام المحلي",
   "navigation_bar.edit_profile": "تعديل الملف الشخصي",
