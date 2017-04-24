@@ -1,17 +1,28 @@
+/**
+  * ملاحظة للمساهمين و المساهمات :
+  * لجعل مهمة المساهمين الآخرين أسهل، رجاءا تذكر :
+  * 1. إضافة سلسلة جديدة هنا؛ و
+  * 2. لإزالة السلاسل القديمة التي لم تعد هناك حاجة إليها. و
+  * 3. لفرز السلاسل تبعا للأبجدية
+  * شكر!
+ */
 const ar = {
-  "account.mention": "أُذكُر @{name}",
-  "account.edit_profile": "تعديل الملف الشخصي",
-  "account.unblock": "إلغاء الحظر عن @{name}",
-  "account.unfollow": "إلغاء المتابعة",
   "account.block": "حظر @{name}",
+  "account.disclaimer": "هذا المستخدم من مثيل خادم آخر. قد يكون هذا الرقم أكبر.",
+  "account.edit_profile": "تعديل الملف الشخصي",
   "account.follow": "إتبع",
-  "account.posts": "المشاركات",
-  "account.follows": "يتبع",
   "account.followers": "المتابعون",
   "account.follows_you": "يتابعك",
+  "account.follows": "يتبع",
+  "account.mention": "أُذكُر @{name}"
+  "account.mute": "أكتم @{name}",
+  "account.posts": "المشاركات",
+  "account.report": "أبلغ عن @{name}",
   "account.requested": "في انتظار الموافقة",
-  "column.public": "القائمة الزمنية الفيدرالية",
-  "column.notifications": "الإشعارات",
+  "account.unblock": "إلغاء الحظر عن @{name}",
+  "account.unfollow": "إلغاء المتابعة",
+  "account.unmute": "إلغاء الكتم عن @{name}",
+  "boost_modal.combo": "يمكنك الضغط على {combo} لتخطي هذا مرة أخرى",
   "column_back_button.label": "العودة",
   "column.blocks": "الحسابات المحجوبة",
   "column.community": "الخيط العام المحلي",
@@ -26,7 +37,7 @@ const ar = {
   "empty_column.home.public_timeline": "الخيط العام",
   "empty_column.home": "إنك لا تتبع بعد أي شخص إلى حد الآن. زر {public} أو استخدام حقل البحث لكي تبدأ على التعرف على مستخدمين آخرين.",
   "empty_column.notifications": "لم تتلق أي إشعار بعدُ. تفاعل مع المستخدمين الآخرين لإنشاء محادثة.",
-"empty_column.public": "لا يوجد شيء هنا ! قم بتحرير شيء ما بشكل عام، أو اتبع مستخدمين آخرين في الخوادم المثيلة الأخرى لملء خيط المحادثات العام.",
+  "empty_column.public": "لا يوجد شيء هنا ! قم بتحرير شيء ما بشكل عام، أو اتبع مستخدمين آخرين في الخوادم المثيلة الأخرى لملء خيط المحادثات العام.",
   "getting_started.heading": "إستعدّ للبدء",
   "getting_started.about_addressing": "يمكنك متابعة الأشخاص إذا كنت تعرف اسم المستخدم الخاص بهم والنطاق الذي هم عليه عن طريق إدخال عنوان شبيه بالبريد الإلكتروني في الحقل المخصص للبحث.",
   "getting_started.about_shortcuts": "إذا كان المستخدم المستهدف في نفس النطاق الذي تستخدمه، فإسم المستخدم وحده يكفي. وتنطبق نفس القاعدة على ذكر الأشخاص في المنشورات و التبويقات.",
