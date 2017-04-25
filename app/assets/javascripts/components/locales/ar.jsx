@@ -14,7 +14,7 @@ const ar = {
   "account.followers": "المتابعون",
   "account.follows_you": "يتابعك",
   "account.follows": "يتبع",
-  "account.mention": "أُذكُر @{name}"
+  "account.mention": "أُذكُر @{name}",
   "account.mute": "أكتم @{name}",
   "account.posts": "المشاركات",
   "account.report": "أبلغ عن @{name}",
